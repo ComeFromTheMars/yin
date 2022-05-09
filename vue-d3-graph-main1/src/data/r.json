@@ -1,0 +1,64 @@
+[
+    {
+        "p": {
+            "start": {
+                "identity": 0,
+                "labels": [
+                    "Enterprise"
+                ],
+                "properties": {
+                    "name": "chian",
+                    "setup_time": "1988/8/12",
+                    "address": "北京市北京经济技术开发区宏达北路16号6号楼",
+                    "captial": "80000.0万人民币",
+                    "credit_code": "91110302101114816L"
+                }
+            },
+            "end": {
+                "identity": 122725,
+                "labels": [
+                    "Type"
+                ],
+                "properties": {
+                    "name": "服务型"
+                }
+            },
+            "segments": [
+                {
+                    "start": {
+                        "identity": 0,
+                        "labels": [
+                            "Enterprise"
+                        ],
+                        "properties": {
+                            "name": "66666666666666",
+                            "setup_time": "1988/8/12",
+                            "address": "北京市北京经济技术开发区宏达北路16号6号楼",
+                            "captial": "80000.0万人民币",
+                            "credit_code": "91110302101114816L"
+                        }
+                    },
+                    "relationship": {
+                        "identity": 626262456,
+                        "start": 0,
+                        "end": 122725,
+                        "type": "type",
+                        "properties": {
+                            "name": "类型"
+                        }
+                    },
+                    "end": {
+                        "identity": 122725,
+                        "labels": [
+                            "Type"
+                        ],
+                        "properties": {
+                            "name": "服务型"
+                        }
+                    }
+                }
+            ],
+            "length": 10000.0
+        }
+    }
+]
