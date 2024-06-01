@@ -1,2 +1,3 @@
-# 第一个文件时后端的文件下载之后，创建一个python flask环境放到主目录下即可运行 运行的话点击app.py
-# 第二个是前端的代码，运行之前先启动前端项目服务器
+#After downloading the backend file for the first file, create a Python Flask environment and place it in the main directory to run. If you want to click on app. py
+#The second one is the front-end code, which starts the front-end project server before running
+
